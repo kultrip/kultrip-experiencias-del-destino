@@ -258,7 +258,7 @@ export const experiences: Experience[] = [
     duration: '8 horas',
     price: '€90 por persona (mín. 2 personas)',
     category: 'sunset',
-    image: '/Ribadeo.jpeg',
+    image: 'https://images.pexels.com/photos/10713938/pexels-photo-10713938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 4.8,
     reviewCount: 145,
     categoryName: 'Atardeceres',
