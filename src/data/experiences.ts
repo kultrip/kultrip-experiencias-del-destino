@@ -49,7 +49,7 @@ export const experiences: Experience[] = [
     location: 'Pobra do Caramiñal, Ría de Arousa, A Coruña',
     groupSize: 'Grupo mínimo 10 personas',
     accessibility: 'Accesible para sillas de ruedas y movilidad reducida',
-    image: '/CostaDaMorte_4.jpeg',
+    image: 'https://www.paxinasgalegas.es/imagenes/porto-deportivo-de-a-pobra-do-carami%c3%b1al-muport-sl_img688104t0.jpg',
     includes: [
       'Paseo en barco por la ría de Arousa',
       'Degustación de productos locales (mejillones, empanada, vino gallego)',
