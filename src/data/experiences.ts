@@ -79,7 +79,7 @@ export const experiences: Experience[] = [
     location: 'Ribeira Sacra, Lugo',
     groupSize: 'Grupo abierto',
     requirements: 'Recomendable calzado cómodo y ropa de exterior',
-    image: 'https://drive.google.com/file/d/1Ui6-0hwEhPVCQirZO1JPJJLMVZMrx-XI/view?usp=sharing',
+    image: '/TodoEstoTeDare_RiberaSacra_2.jpeg',
     includes: [
       'Visita guiada basada en la novela "Todo esto te daré"',
       'Cata de 3 vinos en Bodega Vía Romana',
