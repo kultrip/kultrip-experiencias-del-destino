@@ -109,7 +109,7 @@ export const experiences: Experience[] = [
     categoryName: 'Gastronomía',
     location: 'O Grove, Pontevedra',
     groupSize: 'Grupos pequeños, ideal parejas',
-    image: 'https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+    image: 'https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     includes: [
       '2 noches en Hotel Spa Norat O Grove 3* Superior',
       'Desayuno buffet diario',
