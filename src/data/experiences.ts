@@ -10,7 +10,7 @@ export const experiences: Experience[] = [
     price: '€300 pareja (€195 p.p.)',
     category: 'sunset',
     requirements: 'Disponible de Semana Santa a mediados de octubre',
-    image: '/CostaDaMorte_4.jpeg',
+    image: 'https://images.pexels.com/photos/4129287/pexels-photo-4129287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 4.9,
     reviewCount: 87,
     categoryName: 'Atardeceres',
