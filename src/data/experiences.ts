@@ -229,7 +229,7 @@ export const experiences: Experience[] = [
     location: 'Ribeira Sacra, Lugo',
     groupSize: 'Grupos mínimos de 4, ideal enoturistas',
     requirements: 'Requiere mín. 4 participantes',
-    image: '/TodoEstoTeDare_RiberaSacra_2.jpeg',
+    image: '/CataDeVino_2.jpeg',
     includes: [
       'Paseo en catamarán por el río Miño y visita a viñedos',
       'Visita y cata en Adega Vella (4 vinos)',
